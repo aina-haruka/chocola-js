@@ -11,6 +11,18 @@ Chocola JS
 <script src="chocola.js"></script>
 ```
 
+#### Test
+
+```bash
+node chocola.js test
+```
+
+OR
+
+```bash
+
+```
+
 ### Production
 
 ```html
